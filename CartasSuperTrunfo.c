@@ -57,12 +57,8 @@ int main()
   char codigo_2[4];
   char cidade_2[10];
   unsigned long int populacao_2;
-  float area_2;
-  float pib_2;
+  float area_2, pib_2, densidadePopulacional_2, pibPerCapita_2, superPoder_2;
   int pontosTuristicos_2;
-  float densidadePopulacional_2;
-  float pibPerCapita_2;
-  float superPoder_2;
 
   printf("\nQual Estado da sua carta?: \n");
   scanf("%s", &estado_2);
